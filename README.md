@@ -1,6 +1,4 @@
-# Blog-Application
-Here's a description you can add to your repository:  
-
+# Blog-Application 
 ---  
 A simple and interactive blog application built using **Node.js, Express, and MongoDB**. This application allows users to create, read, update, and delete blog posts.  
 
@@ -14,7 +12,7 @@ Features 🚀
 Tech Stack 🛠️  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Frontend:** HTML, CSS, JavaScript (or any frontend framework if used)  
+- **Frontend:** HTML, CSS, JavaScript
 
 Installation & Usage 🚀  
 1. Clone the repository:  
@@ -37,5 +35,3 @@ Contributing 🤝
 Feel free to fork this repository and submit pull requests!  
 
 ---  
-
-You can modify this based on your specific features. Let me know if you want any changes! 🚀
